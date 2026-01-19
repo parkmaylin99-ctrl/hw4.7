@@ -1,0 +1,14 @@
+[
+  {
+    "id": 1705512000000,
+    "name": "L Lawliet",
+    "cause": "Heart Attack",
+    "date": "17.01.2026, 20:00:00"
+  },
+  {
+    "id": 1705512005000,
+    "name": "Teru Mikami",
+    "cause": "Suicide",
+    "date": "17.01.2026, 20:05:00"
+  }
+]

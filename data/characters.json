@@ -1,0 +1,27 @@
+[
+  {
+    "name": "Cassie",
+    "age": 18,
+    "photo": "https://i.pinimg.com/736x/47/f6/0e/47f60efb1d39e77ea807c26212043cd9.jpg"
+  },
+  {
+    "name": "Maxie",
+    "age": 18,
+    "photo": "https://i.pinimg.com/736x/e6/89/db/e689db319146015b7350dbdd476a3604.jpg"
+  },
+  {
+    "name": "Sidney",
+    "age": 16,
+    "photo": "https://i.pinimg.com/736x/d4/30/71/d43071dac3efa7f69b2ba4b8bd77bdb9.jpg"
+  },
+  {
+    "name": "Tony",
+    "age": 17,
+    "photo": "https://i.pinimg.com/1200x/eb/8f/54/eb8f549795f23501654fdeaa5c5d2193.jpg"
+  },
+  {
+    "name": "Chris",
+    "age": 17,
+    "photo":""
+  }
+]

@@ -1,0 +1,15 @@
+{
+  "name":"Tony",
+"secondName":"Stonem",
+"status":"has gf",
+"family":["Effy","Mom","Dad"],
+"age":17,
+"grade":12,
+"adress":{
+    "house":"55 Guild Street",
+    "school":"30 Guild Street"
+},
+"bloodType":"B+",
+"height":179,
+"weight":63
+}
